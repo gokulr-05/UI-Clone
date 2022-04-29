@@ -1,0 +1,114 @@
+/* login area  */
+
+.login-section {
+  background-color: #f2f6f8;
+  margin-bottom: 100px;
+}
+
+.login-bucket-2 {
+  margin-top: auto;
+  /* margin-bottom: auto; */
+}
+
+.login-row-1 {
+  padding: 100px 50px;
+}
+
+.login-title {
+  font-size: 55px;
+  font-weight: 700;
+}
+
+.login-para {
+  font-size: 25px;
+}
+
+.login-input-box {
+  margin-bottom: 20px;
+}
+
+.login-card-1 {
+  width: 80%;
+  padding: 30px 15px;
+  margin-bottom: 20px;
+}
+
+.login-button-1 {
+  margin-bottom: 20px;
+}
+
+.login-forget-password {
+  text-decoration: none;
+}
+
+.login-new-acct-btn {
+  margin-top: 20px;
+}
+
+.login-card-1 {
+  /* box-shadow: 10px 10px 5px #777; */
+}
+
+.login-para-reason-bucket {
+  /* margin-left: auto; */
+  width: 80%;
+}
+
+.login-reason-para {
+  margin-left: auto;
+}
+
+/* end login area  */
+
+/* footer area  */
+
+.footer-area {
+  margin-bottom: 0px;
+}
+
+.footer-lan {
+  padding: 10px 10px;
+  color: #777;
+  font-size: 12px;
+}
+
+/* end footer area  */
+
+/* modal area  */
+
+.modal-custom-close {
+  margin-top: 0px !important;
+}
+
+.modal-dob {
+  font-size: 10px;
+}
+
+.circle-ques {
+  text-decoration: none;
+  color: #777;
+}
+
+.gender-radio {
+  padding: 2px;
+  border: 0.5px solid #ced4da;
+}
+
+.disclaimer {
+  font-size: 10px;
+  color: #777;
+}
+
+.sign-up-button-item {
+  background-color: limegreen;
+  color: white;
+  font-weight: 700;
+  border: none;
+  padding: 2px 25px;
+}
+
+.pronoun-para {
+  font-size: 10px;
+}
+
+/* End modal area  */
